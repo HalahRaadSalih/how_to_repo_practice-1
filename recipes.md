@@ -46,3 +46,14 @@ Finish what you started working on, then push up any additional commits.
 
 
 File a pull request with the commits in them that you want to share. Make sure you ahve a good explanation in the pull request of what this is, what it's intended to do, and some nice language, rather tham making fun of the original author.
+
+
+### How to work on two different things at the same time.
+
+
+###typical collabration patters
+
+A typical collcabration pattern is to actually to fork nd then branch off matser,  then push to your fork then file a pull request. 
+
+The reason fot is  that master, as a branch, should always represent code or whatever that 'works'
+ an dis suitable for deployment or sharing ir whatever going on.
