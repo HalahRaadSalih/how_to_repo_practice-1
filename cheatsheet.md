@@ -46,3 +46,10 @@ Finish what you started working on, then push up any additional commits.
 
 
 File a pull request with the commits in them that you want to share. Make sure you ahve a good explanation in the pull request of what this is, what it's intended to do, and some nice language, rather tham making fun of the original author.
+
+
+### Typical Collaboration Patterns
+
+A typical collaboration pattern is actaully to fork, then branch off of master, then push to your fork, then file a pull request.
+
+The reason for this that master, as a branch, should always represesnt code or whatever that "works" and is suitable for deployment  or sharing whatever "goign public" is for you.
